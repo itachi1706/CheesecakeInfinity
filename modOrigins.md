@@ -14,7 +14,6 @@ The following table is the list of mods that are found in the modpack and their 
 | AromaBackup | Aroma1997 |
 | Baubles | Azanor |
 | BdLib | bdew |
-| Better Title Screen | girafi |
 | BiblioCraft | Nuchaz |
 | BiblioWoods BoP | Nuchaz |
 | BiblioWoods Forestry | Nuchaz |
@@ -33,6 +32,7 @@ The following table is the list of mods that are found in the modpack and their 
 | CodeChickenLib | Chickenbones |
 | CoFH Core | TeamCoFH |
 | ComputerCraft | Dan200 |
+| Custom Main Menu | Lumien |
 | Decocraft | RazzleberryFox |
 | Dense Ores | RWTema |
 | Draconic Evolution | brandon3055 |
@@ -94,6 +94,7 @@ The following table is the list of mods that are found in the modpack and their 
 | ProjectRed | MrTJP |
 | Railcraft | CovertJaguar |
 | Redstone Arsenal | TeamCoFH |
+| Resource Loader | Lumien |
 | RF Tools | McJty |
 | Runic Dungeons | MrComputerGhost |
 | Simply Jetpacks | tonius11 |
