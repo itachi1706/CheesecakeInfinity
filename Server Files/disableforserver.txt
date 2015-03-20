@@ -3,3 +3,4 @@ JourneyMap
 NotEnoughKeys
 CustomMainMenu
 ResourceLoader
+CheesecakeCapes
