@@ -123,3 +123,9 @@ The following table is the list of mods that are found in the modpack and their 
 | Wawla | Darkhax |
 | Witchery | Emoniph |
 | WR-CBE | Chickenbones |
+
+**TODO**
+- Add BetterLoadingScreen
+- Add PortalGun
+- Add iChun Doors
+- Add Steve's Addons
