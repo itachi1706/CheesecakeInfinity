@@ -1,4 +1,5 @@
 BetterTitleScreen
+BetterLoadingScreen
 JourneyMap
 NotEnoughKeys
 CustomMainMenu
