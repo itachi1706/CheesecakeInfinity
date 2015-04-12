@@ -3,7 +3,7 @@
     {
 		"modpack":
 		{
-            "image" : "mainmenu:modpack.png",
+            "image" : "mainmenu:packlogo.png",
             "posX" : -125,
             "posY" : -155,
             "width" : 250,
@@ -61,7 +61,7 @@
                 "gui" : "mods"
             }
         },
-        "FTB Site":
+        "FTB Infinity Changelog":
         {
             "text" : "",
             "posX" : 80,
@@ -69,19 +69,19 @@
             "width" : 20,
             "height" : 20,
 			"alignment" : "center",
-			"tooltip": "FTB Site",
+			"tooltip": "FTB Infinity Changelog",
 			"texture" : "mainmenu:web.png",
 			"imageWidth": "40",
 			"imageHeight": "40",
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/"
+				"link" : "https://feedthebeast.atlassian.net/wiki/display/PML/Infinity+1.7"
             }
         },
-        "support":
+        "Technic Modpack":
         {
-            "text" : "Support",
+            "text" : "Modpack Site",
             "posX" : -100,
             "posY" : 75,
             "width" : 98,
@@ -91,7 +91,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "http://support.feed-the-beast.com/"
+				"link" : "http://technicpack.net/modpack/cheesecakeinfinity.586096"
             }
         },
         "changelog":
@@ -106,7 +106,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://feedthebeast.atlassian.net/wiki/display/PML/Public+Modpack+Listings"
+				"link" : "http://technicpack.net/modpack/cheesecakeinfinity.586096/changelog"
             }
         },
         "options":
@@ -226,7 +226,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "FTB Infinity 1.3.0",
+			"text" : "Cheesecake Infinity 1.6.0",
             "posX" : 5,
             "posY" : -45,
             "color" : -1,
