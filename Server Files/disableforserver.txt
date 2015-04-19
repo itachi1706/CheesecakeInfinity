@@ -5,3 +5,8 @@ NotEnoughKeys
 CustomMainMenu
 ResourceLoader
 CheesecakeCapes
+
+===================
+Disabled by default
+===================
+EiraIRC
