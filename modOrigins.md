@@ -13,6 +13,7 @@ The following table is the list of mods that are found in the modpack and their 
 | Aroma1997Core | Aroma1997 |
 | AromaBackup | Aroma1997 |
 | Baubles | Azanor |
+| Better Loading Screen | Alexj290 |
 | BdLib | bdew |
 | BiblioCraft | Nuchaz |
 | BiblioWoods BoP | Nuchaz |
@@ -35,6 +36,7 @@ The following table is the list of mods that are found in the modpack and their 
 | Custom Main Menu | Lumien |
 | Decocraft | RazzleberryFox |
 | Dense Ores | RWTema |
+| Doors | iChun |
 | Draconic Evolution | brandon3055 |
 | EnderIO | CrazyPants, tterrag1098 |
 | EnderStorage | Chickenbones |
@@ -91,6 +93,7 @@ The following table is the list of mods that are found in the modpack and their 
 | Opis | ProfMobius |
 | Pam's Harvestcraft | MatrexsVigil |
 | PneumaticCraft | MineMaarten |
+| Portal Gun | iChun |
 | ProjectRed | MrTJP |
 | Railcraft | CovertJaguar |
 | Redstone Arsenal | TeamCoFH |
@@ -100,6 +103,7 @@ The following table is the list of mods that are found in the modpack and their 
 | Simply Jetpacks | tonius11 |
 | Solar Expansion | TedTheRusSB624 |
 | Springboards | Galoubet |
+| Steve's Addons | hilburn |
 | Steve's Carts | Vswe |
 | Steve's Factory Manager | Vswe |
 | Steve's Workshop | Vswe |
@@ -123,9 +127,3 @@ The following table is the list of mods that are found in the modpack and their 
 | Wawla | Darkhax |
 | Witchery | Emoniph |
 | WR-CBE | Chickenbones |
-
-**TODO**
-- Add BetterLoadingScreen
-- Add PortalGun
-- Add iChun Doors
-- Add Steve's Addons
